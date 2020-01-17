@@ -1,6 +1,6 @@
 # photo_viewer
 
-View pictore from unsplash.com
+View picture from Unsplash.com
 
 ## Getting Started
 
